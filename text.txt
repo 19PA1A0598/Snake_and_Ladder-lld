@@ -1,0 +1,115 @@
+input:
+
+Enter number of dice
+1
+Enter number of players
+3
+Enter player name
+ravi
+Enter player name
+ram
+Enter player name
+sam
+Enter number of snakes
+5
+Please enter such that head is always greater than tail
+Enter head of snake
+78
+Enter tail of snake
+23
+Enter head of snake
+91
+Enter tail of snake
+45
+Enter head of snake
+67
+Enter tail of snake
+13
+Enter head of snake
+78
+Enter tail of snake
+21
+Enter head of snake
+84
+Enter tail of snake
+40
+Enter number of ladders
+4
+Please enter such that foot is always smaller than top
+Enter foot of ladder
+27
+Enter top of ladder
+97
+Enter foot of ladder
+44
+Enter top of ladder
+87
+Enter foot of ladder
+6
+Enter top of ladder
+55
+Enter foot of ladder
+19
+Enter top of ladder
+74
+
+
+output:
+
+ravi is at position 1
+ram is at position 1
+sam is at position 1
+ravi climbed on ladder 
+ravi is at position 55
+ram is at position 5
+sam climbed on ladder
+sam is at position 55
+ravi is at position 58
+ram is at position 9
+sam is at position 56
+ravi is at position 61
+ram is at position 14
+sam is at position 58
+ravi is at position 62
+ram climbed on ladder
+ram is at position 74
+sam is at position 61
+ravi is at position 65
+ram is at position 75
+sam is at position 62
+ravi bitten by snake
+ravi is at position 13
+ram bitten by snake
+ram is at position 21
+sam is at position 64
+ravi is at position 17
+ram is at position 26
+sam is at position 66
+ravi is at position 18
+ram is at position 31
+sam is at position 71
+ravi is at position 22
+ram is at position 34
+sam is at position 74
+ravi climbed on ladder
+ravi is at position 97
+ram is at position 37
+sam is at position 77
+$$$$$$$$$$$$$ravi won the game $$$$$$$$$$$$$$
+ram is at position 39
+sam is at position 81
+ram is at position 40
+sam is at position 86
+ram is at position 43
+sam is at position 88
+ram is at position 45
+sam is at position 89
+ram is at position 50
+sam is at position 93
+ram is at position 51
+sam is at position 94
+ram is at position 56
+sam is at position 99
+ram is at position 60
+ram is at position 63
+$$$$$$$$$$$$$sam won the game $$$$$$$$$$$$$$
